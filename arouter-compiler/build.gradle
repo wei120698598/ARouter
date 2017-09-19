@@ -21,6 +21,7 @@ dependencies {
 
     compile 'org.apache.commons:commons-lang3:3.4'
     compile 'org.apache.commons:commons-collections4:4.1'
+    compile 'org.androidannotations:androidannotations-api:4.3.1'
 }
 
 apply from: 'https://raw.githubusercontent.com/nuuneoi/JCenter/master/installv1.gradle'
